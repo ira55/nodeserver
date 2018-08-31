@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "test": "jasmine",
-    "lint": "eslint ."
+    "lint": "eslint"
   },
   "author": "Iryna Demkovych",
   "license": "ISC",
